@@ -1,3 +1,3 @@
 # course_one
-Sample repository
+Course Structure
 
